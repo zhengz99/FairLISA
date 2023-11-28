@@ -7,7 +7,7 @@ python3 run.py -DATA your_dataset -FILTER_MODE separate -FAIRNESS_RATIO 1.0 -FAI
 ```
 
 ## BibTex
-Please cite this paper if you use our codes. Thanks!
+If you find this work useful in your research, please cite our paper:
 
 ```
 @inproceedings{zhang2023fairlisa,
